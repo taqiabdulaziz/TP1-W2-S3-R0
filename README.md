@@ -5,7 +5,7 @@
 npm ci
 ```
 
-#### 2. Run project
+#### 2. Run the project
 ```
 npm run dev
 ```
