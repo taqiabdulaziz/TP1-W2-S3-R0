@@ -1,0 +1,29 @@
+.home-page {
+  padding: 12px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.introduction {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.socials {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.social-icon {
+  height: 30px;
+  width: 30px;
+  color: #743cf9;
+}
+
+.social-icon:hover {
+  cursor: pointer;
+}
