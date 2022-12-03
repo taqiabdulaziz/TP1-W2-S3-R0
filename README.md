@@ -1,6 +1,13 @@
 ## How to run
+
+#### 1. Install Dependencies
 ```
-npm run start
+npm ci
+```
+
+#### 2. Run project
+```
+npm run dev
 ```
 
 ## Mahasiswa
