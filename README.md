@@ -1,5 +1,7 @@
 ## How to run
 
+### Make sure have node version >= 14.17.0
+
 #### 1. Install Dependencies
 ```
 npm ci
